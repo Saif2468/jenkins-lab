@@ -1,5 +1,5 @@
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Work hard until you get success");  
+     System.out.println(" hard work takes you to success");  
     }  
 } 
